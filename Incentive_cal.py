@@ -1,6 +1,5 @@
 import streamlit as st
 
-import ipywidgets as widgets
 from IPython.display import display, clear_output
 
 def calculate_cash_in_incentive(total_upfront_cash_in):
